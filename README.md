@@ -5,6 +5,6 @@ Server side for a simple web app for tracking reminders exclusively for pets.
 
 # features to implement:
 
-1.  [ ] Transfer the whole codebase to TypeScript (currently doing it)
+1.  [ ] Transfer the whole codebase to <b>TypeScript</b> (currently doing it)
 2.  [ ] Edit Pets, Reminders, User
 3.  [ ] Validate data using Zod
